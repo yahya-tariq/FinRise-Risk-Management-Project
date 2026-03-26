@@ -12,20 +12,22 @@ The project is divided into three main parts:
 
 ## 🧩 Project Structure
 
+```bash
 FinRise-Risk-Management-Project/
 │
 ├── notebooks/
 │   ├── Part2_Portfolio.ipynb
-│   ├── Part3_CreditModel.ipynb
+│   └── Part3_CreditModel.ipynb
 │
 ├── data/
 │   ├── stock_data.csv
-│   ├── cleaned_finrise_data.csv
+│   └── cleaned_finrise_data.csv
 │
 ├── report/
-│   ├── FRA_Project_Report.pdf
+│   └── FRA_Project_Report.pdf
 │
 └── README.md
+```
 
 ---
 
