@@ -24,6 +24,7 @@ FinRise-Risk-Management-Project/
 │   └── cleaned_finrise_data.csv
 │
 ├── report/
+│   ├── FRA_Project_Report.docx
 │   └── FRA_Project_Report.pdf
 │
 └── README.md
