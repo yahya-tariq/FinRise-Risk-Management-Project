@@ -98,10 +98,7 @@ Key steps include:
 ---
 
 ## 👥 Team Members
-- Yahya (22I-2254)  
-- Mussab (22I-9809)  
-- Raed (22I-7460)  
-- Mutal (22I-0070)  
+- Yahya (22I-2254)   
 - Umer (22I-7464)  
 
 ---
